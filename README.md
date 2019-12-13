@@ -4,6 +4,7 @@ Calculator based on GTK3 with Python3.
 ## Overview
 This is a simple demo project for python on GTK3. The UI is designed by RAD tool Glade.
 
+![](https://raw.githubusercontent.com/lixshnew/Calculator/master/sample.png)
 
 ### Tool chain:
 1. [GTK3](https://www.gtk.org/)
